@@ -1,4 +1,4 @@
-# oracle-benchmarks
+# Deep Learning benchmarks on Oracle Cloud
 Some benchmarks on the Oracle Cloud
 
 Used tests:
